@@ -1,6 +1,6 @@
 import random
 while True:
-    number = random.randint(1,1000000)
+    number = random.randint(1,10)
     print('Вгадай число між 1 і 10')
     count = 0
     while True:
